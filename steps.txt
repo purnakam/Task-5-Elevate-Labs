@@ -1,0 +1,32 @@
+ 1. Initial Setup
+    1.1. Import necessary libraries
+    1.2. Set default visualization styles
+ 2. Data Loading & First Look
+    2.1. Load the Titanic dataset
+    2.2. Preview data
+    2.3. Check for duplicate rows
+ 3. Missing Data Analysis
+    3.1. Visualize missing data
+    3.2. Check for missing data
+    3.3. Define and apply imputation strategies
+ 4. Feature Engineering
+    4.1. Create derived features 
+    4.2. Encode categorical variables
+ 5. Univariate Analysis
+    5.1. Analyze categorical features using value_counts() and bar plots
+    5.2. Analyze numerical features using histograms, boxplots, and descriptive stats
+ 6. Bivariate Analysis
+    6.1. Explore survival relationships with other features
+    6.2. Use cross-tabulations and statistical tests 
+ 7. Multivariate Analysis
+    7.1. Plot correlation heatmap of numeric features
+    7.2. Generate pairplots colored by survival status
+    7.3. Create interaction plots for key feature pairs
+ 8. Advanced Visualizations
+    8.1. Use faceted grid plots to compare subgroups
+    8.2. Add interactive visualizations using Plotly
+ 9. Outlier Analysis
+    9.1. Detect and visualize outliers in key numerical features
+    9.2. Decide whether to keep, remove, or transform outliers
+10. Key Insights Summary
+    10.1. Summarize key insights in bullet points
